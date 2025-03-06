@@ -46,8 +46,8 @@ A minimalist physics-based game inspired by Flappy Bird, where you control a bou
 ### **Installation** 🚀
 1. Clone this repository:
 ```bash
-git clone https://github.com/chung-ming/flappyball.git
-cd flappyball
+git clone https://github.com/chung-ming/FlappyBall.git
+cd FlappyBall
 ```
 
 2. Install dependencies:
