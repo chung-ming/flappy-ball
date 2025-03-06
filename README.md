@@ -1,7 +1,7 @@
 # Flappy Ball 🏀
 
-![flappyball gameplay](pic1.png)
-![flappyball high score](pic2.png)
+![gameplay](img/pic1.png)
+![high_score](img/pic2.png)
 
 A minimalist physics-based game inspired by Flappy Bird, where you control a bouncing ball to navigate through dynamically generated pipes. This game is made entirely using Python and Pygame!
 
@@ -18,6 +18,14 @@ A minimalist physics-based game inspired by Flappy Bird, where you control a bou
 
 ---
 
+### **Controls** 🕹️
+- **Spacebar**: 
+    - Start the game from title screen
+    - Jump during gameplay (press repeatedly to climb higher)
+    - Restart after game over
+
+---
+
 ### **How to Play** 🎮
 1. Press **SPACE** to start the game
 2. Press **SPACE** to make the ball jump
@@ -29,15 +37,7 @@ A minimalist physics-based game inspired by Flappy Bird, where you control a bou
 
 ---
 
-### **Controls** 🕹️
-- **Spacebar**: 
-    - Start the game from title screen
-    - Jump during gameplay (press repeatedly to climb higher)
-    - Restart after game over
-
----
-
-### **Requirements**
+### **Requirements** 📦
 - Python 3.x
 - Pygame library (`pip install pygame`)
 
@@ -70,3 +70,9 @@ Feel free to fork and improve the game! Potential enhancements could include:
 - Power-ups/obstacles (spinning pipes, speed boosts)
 - Sound effects and music implementation
 - Difficulty levels based on pipe density/speed
+
+---
+
+## License 📄
+
+[MIT License](/LICENSE) © 2025 Arielyte
