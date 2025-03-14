@@ -75,4 +75,4 @@ Feel free to fork and improve the game! Potential enhancements could include:
 
 ## License 📄
 
-[MIT License](/docs/LICENSE) © 2025 Arielyte
+[Apache License](/docs/LICENSE) © 2025 Arielyte
